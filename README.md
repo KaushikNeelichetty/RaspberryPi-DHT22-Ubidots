@@ -18,7 +18,7 @@ This project uses a Raspberry Pi connected to a DHT22 sensor to read the tempera
 </ul>
 
 ## Circuit Diagram
-Download Fritzing from <a href="http://fritzing.org/download/">here</a> and open the <a href="https://github.com/KaushikNeelichetty/RaspberryPi-DHT22-Ubidots/blob/master/Ubidots-DHT22-Pi-Connections.fzz">Fritzing project</a> to have a better idea about the connections.<br
+Download Fritzing from <a href="http://fritzing.org/download/">here</a> and open the <a href="https://github.com/KaushikNeelichetty/RaspberryPi-DHT22-Ubidots/blob/master/Ubidots-DHT22-Pi-Connections.fzz">Fritzing project</a> to have a better idea about the connections.<br>
 
 <img src="https://github.com/KaushikNeelichetty/RaspberryPi-DHT22-Ubidots/blob/master/Ubidots-DHT22-Pi-Connections_bb.png"/>
 
