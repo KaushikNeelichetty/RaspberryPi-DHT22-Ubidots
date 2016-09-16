@@ -84,6 +84,6 @@ Download Fritzing from <a href="http://fritzing.org/download/">here</a> and open
 
 ## Snapshots
 The data when viewed in the Data Soruce<br>
-<img src="https://github.com/KaushikNeelichetty/RaspberryPi-DHT22-Ubidots/blob/master/VariableView.png"><br>
+<img src="https://github.com/KaushikNeelichetty/RaspberryPi-DHT22-Ubidots/raw/master/VariableView.png"><br>
 The data when viewed as widgets<br>
-<img src="https://github.com/KaushikNeelichetty/RaspberryPi-DHT22-Ubidots/blob/master/DashboardView.png"><br>
+<img src="https://github.com/KaushikNeelichetty/RaspberryPi-DHT22-Ubidots/raw/master/DashboardView.png"><br>
