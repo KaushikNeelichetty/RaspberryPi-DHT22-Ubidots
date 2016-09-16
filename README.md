@@ -71,7 +71,7 @@ Download Fritzing from <a href="http://fritzing.org/download/">here</a> and open
           #Set the type of sensor and the pin for sensor<br>
           sensor = Adafruit_DHT.DHT22<br>
           pin = 4<br>
-    <code>
+    </code>
     <br>
     Within the try block inside the While(1): add this line<br>
     <code>humidity, temperature = Adafruit_DHT.read_retry(sensor, pin)</code><br>
