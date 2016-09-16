@@ -66,12 +66,11 @@ Download Fritzing from <a href="http://fritzing.org/download/">here</a> and open
   <li>The code needed to send the data to the Ubidots source is generated, copy it and create a python script.</li>
   <li>This script sends random data and it is not the actual data we want to send, now we need to use the Adafruit Python DHT library and create the rest of the script needed. 
     <br>Add these lines of code in the appropriate places<br>
-    <code>import sys<br>
-          import Adafruit_DHT<br>
-          #Set the type of sensor and the pin for sensor<br>
-          sensor = Adafruit_DHT.DHT22<br>
-          pin = 4<br>
-    </code>
+    <code>import sys</code><br>
+          <code>import Adafruit_DHT</code><br>
+          <code>#Set the type of sensor and the pin for sensor</code><br>
+          <code>sensor = Adafruit_DHT.DHT22</code><br>
+          <code>pin = 4</code><br>
     <br>
     Within the try block inside the While(1): add this line<br>
     <code>humidity, temperature = Adafruit_DHT.read_retry(sensor, pin)</code><br>
@@ -85,6 +84,6 @@ Download Fritzing from <a href="http://fritzing.org/download/">here</a> and open
 
 ## Snapshots
 The data when viewed in the Data Soruce<br>
-<img scr="https://github.com/KaushikNeelichetty/RaspberryPi-DHT22-Ubidots/blob/master/VariableView.png"><br>
+<img src="https://github.com/KaushikNeelichetty/RaspberryPi-DHT22-Ubidots/blob/master/VariableView.png"><br>
 The data when viewed as widgets<br>
 <img src="https://github.com/KaushikNeelichetty/RaspberryPi-DHT22-Ubidots/blob/master/DashboardView.png"><br>
